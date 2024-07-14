@@ -1,1 +1,1 @@
-# PneuModel
+# Pneumonia_AI
